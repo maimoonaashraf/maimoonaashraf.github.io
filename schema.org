@@ -12,7 +12,7 @@
   ],
   "email": "mailto:maimoonaashraf917@gmail.com",
   "image": "mona.jpg",
-    "jobTitle": "Web Deveeloper",
+    "jobTitle": "Web Developer",
   "name": "Memoona Ashraf",
   "telephone": "+92 308 4046314",
   "url": "https://github.com/maimoonaashraf/maimoonaashraf.github.io"
