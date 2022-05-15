@@ -1,15 +1,20 @@
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org/",
+  "@context": "https://schema.org",
   "@type": "Person",
+  "address": {
+    "@type": "PostalAddress"
+    "postalCode": "40100",
+    "streetAddress": "VIP Town, Sargodha"
+  },
+  "colleague": [
+    "http://www.su.edu.pk/"
+  ],
+  "email": "mailto:maimoonaashraf917@gmail.com",
+  "image": "mona.jpg",
+    "jobTitle": "Web Deveeloper",
   "name": "Memoona Ashraf",
-  "url": "",
-  "image": "",
-  "sameAs": "https://github.com/maimoonaashraf/maimoonaashraf.github.io",
-  "jobTitle": "Web Developer",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "GitHub"
-  }  
+  "telephone": "+92 308 4046314",
+  "url": "https://github.com/maimoonaashraf/maimoonaashraf.github.io"
 }
 </script>
